@@ -7,6 +7,6 @@
 ## Install
 
 ```
-scoop bucket add lki https://github.com/LKI/scoop-bucket
+scoop bucket add lki https://github.com/liriansu-opus/scoop-bucket
 ```
 
